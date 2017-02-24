@@ -9,7 +9,7 @@ For Ethereum, in Solidity.
 
 ### What is this repository for? ###
 
-A generalized patterns for storing table-like records in an Ethereum blockchain. 
+A generalized pattern for storing table-like records in an Ethereum blockchain. 
 
 * Reference source code and PDF versions for the tutorial at:
 
